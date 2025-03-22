@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262205626491",
+    "project_id": "bookingapp-19efc",
+    "storage_bucket": "bookingapp-19efc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262205626491:android:9a74208f3e49cf6b3ceade",
+        "android_client_info": {
+          "package_name": "com.example.taxiusersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wURhdMcYgSEUxSM130ZakQJULjSfgPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
